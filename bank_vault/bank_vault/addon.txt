@@ -1,0 +1,10 @@
+"AddonInfo"
+{
+	"name"				"Bank Vault"
+	"version"			"1.0"
+	"up_date"			"2014"
+	"author_name"		"EnnX49"
+	"author_email"		"ennx749@gmail.com"
+	"author_url"		"none"
+	"info"				"Adds a bank vault."
+}

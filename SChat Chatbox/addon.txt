@@ -1,0 +1,8 @@
+"AddonInfo"
+{
+	"name"		"SChat"
+	"info"		""
+	"version"	"1.0.2"
+	"up_date"	"2015.02.22"
+	"author_name"	"Snaggle"
+}
